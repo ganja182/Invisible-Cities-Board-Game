@@ -595,7 +595,7 @@ input, select, textarea {
 		.box.alt {
 			border-radius: 20px;
 			border: 0;
-			border-radius: 0;
+			/* border-radius: 0; */
 			padding: 0;
 		}
 
