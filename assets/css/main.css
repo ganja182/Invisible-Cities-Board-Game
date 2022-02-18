@@ -1310,6 +1310,7 @@ input, select, textarea {
 				font-size: 1rem;
 			}
 			#header .logo{
+				border-radius: 20px;
 				background-color: rgb(200, 66, 27);
 				
 			}
